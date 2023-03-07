@@ -3,12 +3,6 @@
 **cradle0fFilth/cradle0fFilth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-                       ____     ____  ___________ ____  __
-  ______________ _____/ / /__  / __ \/ __/ ____(_) / /_/ /_
- / ___/ ___/ __ `/ __  / / _ \/ / / / /_/ /_  / / / __/ __ \
-/ /__/ /  / /_/ / /_/ / /  __/ /_/ / __/ __/ / / / /_/ / / /
-\___/_/   \__,_/\__,_/_/\___/\____/_/ /_/   /_/_/\__/_/ /_/
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
